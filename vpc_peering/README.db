@@ -435,7 +435,7 @@ This project demonstrates practical experience with:
 - Route table configuration.
 - Security group configuration.
 - Private IP communication between VPCs.
-- Connectivity testing using `ping` and `curl`.
+- Connectivity testing using `curl`.
 - Secure management of Terraform variable files.
 - GitHub version control and project documentation.
 
