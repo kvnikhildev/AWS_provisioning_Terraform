@@ -307,25 +307,10 @@ This project demonstrates practical experience with:
 - GitHub version control and repository documentation.
 - Basic security practices for protecting configuration files.
 
-## 🔮 Future Improvements
-
-Possible enhancements include:
-
-- Add public and private subnet separation.
-- Configure Internet Gateway and NAT Gateway where required.
-- Add security groups with least-privilege access.
-- Configure an Application Load Balancer.
-- Implement CPU-based scaling policies.
-- Add CloudWatch monitoring and alarms.
-- Store Terraform state remotely using an S3 backend with appropriate state locking.
-- Introduce separate development, staging, and production environments.
 
 ## 👨‍💻 Author
 
-**Your Name**
+NIKHIL
 
-GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [kvnikhildev](https://github.com/kvnikhildev)
 
-## 📄 License
-
-This project is available for educational and portfolio purposes. Add an appropriate open-source license if you intend to grant others permission to use, modify, and distribute the code.
